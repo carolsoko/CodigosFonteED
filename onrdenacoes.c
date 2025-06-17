@@ -79,8 +79,8 @@ void main(){
         printf("2 - Imprimir vetor\n");
         printf("3 - Ordenar vetor pelo BubbleSort Simples\n");
         printf("4 - Ordenar vetor pelo BubbleSort Otimizado\n");
-        printf("5 - Ordenar vetor pelo SelectionSort Otimizado\n");
-        printf("6 - Ordenar vetor pelo InsertionSort Otimizado\n");
+        printf("5 - Ordenar vetor pelo SelectionSort\n");
+        printf("6 - Ordenar vetor pelo InsertionSort\n");
         printf("7 - Sair\n");
         printf("---------------------------------\n");
         scanf("%d",&resp);
